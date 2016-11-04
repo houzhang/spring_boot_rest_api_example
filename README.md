@@ -9,7 +9,7 @@
 ```sh
 $ mvn clean install
 ```
-### Database
+### Database 
 ```sql
 create database test_java_rest_api;
 ```
